@@ -1,0 +1,125 @@
+.main-home-container {
+    padding: 50px 10px 60px 10px;
+}
+
+.new-request-btn-container {
+    padding: 20px;
+}
+
+.new-request-btn-container button {
+    float: right;
+    background-color: #6558F5 !important;
+
+}
+
+.request-icon {
+
+    margin-bottom: 1px !important;
+    margin-right: 5px !important;
+}
+
+.search-bar {
+    font-size: 20px;
+    box-shadow: none !important;
+    border-radius: 0px !important;
+    padding: 10px;
+}
+
+.search-bar:focus {
+    border-color: rgb(146, 146, 146);
+}
+
+.search-bar::placeholder {
+    font-weight: 500;
+    color: rgb(151, 151, 151);
+
+}
+
+.header-text {
+    text-align: start;
+    padding: 25px 0px;
+    font-size: 17px;
+    font-weight: 700;
+    padding-bottom: 5px !important;
+}
+
+.select-text {
+    text-align: start;
+    padding: 10px 0px;
+    font-size: 17px;
+    font-weight: 500;
+    padding-bottom: 5px !important;
+}
+
+.catagory-text {
+    text-align: start;
+    padding: 25px 0px;
+    font-size: 17px;
+    font-weight: 700;
+    padding-bottom: 20px !important;
+    border-bottom: 3px solid #9EADBA;
+
+}
+
+.badge-text {
+    text-align: start;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.main-home-container {
+    text-align: start;
+}
+
+.data-values {
+    padding: 10px 0px;
+    font-weight: 600;
+}
+
+.data-values-recent {
+    padding: 5px 0px;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.recent-updates-container {
+    align-items: center !important;
+}
+
+.slack-btn {
+    background-color: #897A5F !important;
+    border: none;
+    color: white !important;
+    box-shadow: none !important;
+}
+
+.slack-btn:hover {
+    color: white;
+}
+
+.slack-btn:active {
+    background-color: #756951;
+
+}
+
+.slack-btn-container {
+    float: right;
+}
+
+.efforts-container {
+    align-items: center !important;
+}
+
+.shipped {
+    background-color: #1AAE9F !important;
+    border: none;
+    box-shadow: none !important;
+    color: white !important;
+
+}
+
+.shipped:hover {
+    background-color: #1AAE9F;
+    color: white;
+
+}
